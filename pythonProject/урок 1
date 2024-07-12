@@ -1,0 +1,7 @@
+name = 'azamat "mad"'
+surname = "o'neal"
+age = 18
+heigh = 1.78
+
+print(name.title(), surname.upper())
+
